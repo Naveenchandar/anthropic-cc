@@ -75,3 +75,7 @@ Tests use Vitest + React Testing Library. Test files live in `__tests__/` subdir
 ```bash
 npx vitest run src/lib/transform/__tests__/transform.test.ts
 ```
+
+## Git Conventions
+
+- Do not add `Co-Authored-By` lines to commit messages.
